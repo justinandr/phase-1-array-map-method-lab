@@ -1,4 +1,4 @@
-# Using the Array Map Method
+# Using the Array Map Method 
 
 ## Learning Goals
 
